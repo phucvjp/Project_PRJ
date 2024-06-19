@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 24, 2024, 3:00:19 PM
+    Author     : TUF A15
+*/
+
+.item img{
+    max-width: 13vw;
+    height: 250px;
+    border-radius: 50px;
+}
+.product {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.item{
+    display: flex;
+    width: 15vw;
+    border: orange 2px solid ;
+    margin: 10px;
+    border-radius: 50px;
+}
+.item a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,49 @@
+.page {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.banner {
+    width: 49vw;
+    height: 97vh;
+    float: right;
+
+}
+
+.form-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form {
+    width: 50%;
+    height: 70%;
+}
+
+.page .login {
+    display: flex;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.form form {
+    text-align: left;
+}
+
+.login img {
+    width: 5vw;
+    height: 5vw;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    text-decoration: none;
+    padding: 0 1vw;
+    display: flex;
+    color: black;
+}
